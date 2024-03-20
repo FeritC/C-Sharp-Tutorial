@@ -1,0 +1,10 @@
+C:\Users\u_c_h\source\repos\152120141105\Oop-Exp2\bin\Debug\Oop-Exp2.exe.config
+C:\Users\u_c_h\source\repos\152120141105\Oop-Exp2\bin\Debug\Oop-Exp2.exe
+C:\Users\u_c_h\source\repos\152120141105\Oop-Exp2\bin\Debug\Oop-Exp2.pdb
+C:\Users\u_c_h\source\repos\152120141105\Oop-Exp2\obj\Debug\Oop-Exp2.csproj.AssemblyReference.cache
+C:\Users\u_c_h\source\repos\152120141105\Oop-Exp2\obj\Debug\Oop_Exp2.Form1.resources
+C:\Users\u_c_h\source\repos\152120141105\Oop-Exp2\obj\Debug\Oop_Exp2.Properties.Resources.resources
+C:\Users\u_c_h\source\repos\152120141105\Oop-Exp2\obj\Debug\Oop-Exp2.csproj.GenerateResource.cache
+C:\Users\u_c_h\source\repos\152120141105\Oop-Exp2\obj\Debug\Oop-Exp2.csproj.CoreCompileInputs.cache
+C:\Users\u_c_h\source\repos\152120141105\Oop-Exp2\obj\Debug\Oop-Exp2.exe
+C:\Users\u_c_h\source\repos\152120141105\Oop-Exp2\obj\Debug\Oop-Exp2.pdb

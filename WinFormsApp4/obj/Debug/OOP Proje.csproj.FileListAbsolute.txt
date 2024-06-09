@@ -1,0 +1,63 @@
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje\bin\Debug\OOP Proje.exe.config
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje\bin\Debug\OOP Proje.exe
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje\bin\Debug\OOP Proje.pdb
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje\obj\Debug\OOP Proje.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje\obj\Debug\OOP_Proje.Form1.resources
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje\obj\Debug\OOP_Proje.Properties.Resources.resources
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje\obj\Debug\OOP Proje.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje\obj\Debug\OOP Proje.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje\obj\Debug\OOP Proje.exe
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje\obj\Debug\OOP Proje.pdb
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje\obj\Debug\OOP_Proje.Form2.resources
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje\obj\Debug\OOP_Proje.Form3.resources
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\bin\Debug\OOP Proje.exe.config
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\bin\Debug\OOP Proje.exe
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\bin\Debug\OOP Proje.pdb
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP Proje.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP_Proje.Form1.resources
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP_Proje.Form2.resources
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP_Proje.Form3.resources
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP_Proje.Properties.Resources.resources
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP Proje.csproj.GenerateResource.cache
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP Proje.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP Proje.exe
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP Proje.pdb
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP_Proje.NotesForm.resources
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP_Proje.ProfileForm.resources
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP_Proje.PhoneBookForm.resources
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP_Proje.ReminderForm.resources
+C:\Users\alper\Desktop\OOP LAB 2\OOP Proje - Kopya\obj\Debug\OOP_Proje.SalaryCalculatorForm.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\bin\Debug\OOP Proje.exe.config
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\bin\Debug\OOP Proje.exe
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\bin\Debug\OOP Proje.pdb
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP Proje.csproj.AssemblyReference.cache
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP_Proje.Form1.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP_Proje.Form2.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP_Proje.Form3.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP_Proje.NotesForm.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP_Proje.ProfileForm.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP_Proje.PhoneBookForm.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP_Proje.Properties.Resources.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP_Proje.ReminderForm.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP_Proje.SalaryCalculatorForm.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP Proje.csproj.GenerateResource.cache
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP Proje.csproj.CoreCompileInputs.cache
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP Proje.exe
+C:\Users\u_c_h\OneDrive\Masaüstü\OOP Proje - Kopya\obj\Debug\OOP Proje.pdb
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\bin\Debug\OOP Proje.exe.config
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\bin\Debug\OOP Proje.exe
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\bin\Debug\OOP Proje.pdb
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP Proje.csproj.AssemblyReference.cache
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP_Proje.Form1.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP_Proje.Form2.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP_Proje.Form3.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP_Proje.NotesForm.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP_Proje.ProfileForm.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP_Proje.PhoneBookForm.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP_Proje.Properties.Resources.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP_Proje.ReminderForm.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP_Proje.SalaryCalculatorForm.resources
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP Proje.csproj.GenerateResource.cache
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP Proje.csproj.CoreCompileInputs.cache
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP Proje.exe
+C:\Users\u_c_h\OneDrive\Masaüstü\152120141105_FeritÇeri_Group12_LABA\obj\Debug\OOP Proje.pdb

@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|c:\\users\\u_c_h\\windows forms tutorial\\winformsapp4\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\personalinformationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:personalinformationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\personalinformationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:personalinformationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\salarycalculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:salarycalculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\salarycalculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:salarycalculatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\reminderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:reminderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\reminderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:reminderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\reminderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:reminderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\phonebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:phonebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\salarycalculatorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:salarycalculatorform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\notesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:notesform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:notesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\phonebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:phonebookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\phonebookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:phonebookform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\PersonalInformationForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:PersonalInformationForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ABD3FBC-7A37-41BB-8562-CF4CD7DCCD80}|OOP Proje.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonalInformationForm.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\PersonalInformationForm.cs",
+              "RelativeDocumentMoniker": "PersonalInformationForm.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\PersonalInformationForm.cs",
+              "RelativeToolTip": "PersonalInformationForm.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:22:06.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SalaryCalculatorForm.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\SalaryCalculatorForm.cs",
+              "RelativeDocumentMoniker": "SalaryCalculatorForm.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\SalaryCalculatorForm.cs",
+              "RelativeToolTip": "SalaryCalculatorForm.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAvwEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:33:24.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\OneDrive\\Masa\u00FCst\u00FC\\152120141105_Ferit\u00C7eri_Group12_LABA\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive\\Masa\u00FCst\u00FC\\152120141105_Ferit\u00C7eri_Group12_LABA\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:48:38.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReminderForm.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\ReminderForm.cs",
+              "RelativeDocumentMoniker": "ReminderForm.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\ReminderForm.cs",
+              "RelativeToolTip": "ReminderForm.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAqwEQAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:17:37.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAD4v3YAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T12:55:30.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form3.cs [Design]",
+              "RelativeToolTip": "Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:47:44.788Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAQwHYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T22:48:07.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonalInformationForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\PersonalInformationForm.cs",
+              "RelativeDocumentMoniker": "PersonalInformationForm.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\OneDrive\\Masa\u00FCst\u00FC\\152120141105_Ferit\u00C7eri_Group12_LABA\\PersonalInformationForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive\\Masa\u00FCst\u00FC\\152120141105_Ferit\u00C7eri_Group12_LABA\\PersonalInformationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:25:11.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhoneBookForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\PhoneBookForm.cs",
+              "RelativeDocumentMoniker": "PhoneBookForm.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\OneDrive\\Masa\u00FCst\u00FC\\OOP Proje - Kopya\\PhoneBookForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive\\Masa\u00FCst\u00FC\\OOP Proje - Kopya\\PhoneBookForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:07:04.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalaryCalculatorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\SalaryCalculatorForm.cs",
+              "RelativeDocumentMoniker": "SalaryCalculatorForm.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\OneDrive\\Masa\u00FCst\u00FC\\152120141105_Ferit\u00C7eri_Group12_LABA\\SalaryCalculatorForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive\\Masa\u00FCst\u00FC\\152120141105_Ferit\u00C7eri_Group12_LABA\\SalaryCalculatorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:33:30.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReminderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\ReminderForm.Designer.cs",
+              "RelativeDocumentMoniker": "ReminderForm.Designer.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\ReminderForm.Designer.cs",
+              "RelativeToolTip": "ReminderForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:26:37.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ReminderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\ReminderForm.cs",
+              "RelativeDocumentMoniker": "ReminderForm.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\OneDrive\\Masa\u00FCst\u00FC\\152120141105_Ferit\u00C7eri_Group12_LABA\\ReminderForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive\\Masa\u00FCst\u00FC\\152120141105_Ferit\u00C7eri_Group12_LABA\\ReminderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:17:41.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SalaryCalculatorForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\SalaryCalculatorForm.Designer.cs",
+              "RelativeDocumentMoniker": "SalaryCalculatorForm.Designer.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\SalaryCalculatorForm.Designer.cs",
+              "RelativeToolTip": "SalaryCalculatorForm.Designer.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T19:33:47.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAgwEwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:40:43.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "NotesForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\NotesForm.cs",
+              "RelativeDocumentMoniker": "NotesForm.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\OneDrive\\Masa\u00FCst\u00FC\\OOP Proje - Kopya\\NotesForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive\\Masa\u00FCst\u00FC\\OOP Proje - Kopya\\NotesForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:15:07.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\OneDrive\\Masa\u00FCst\u00FC\\OOP Proje - Kopya\\Form2.cs [Design]",
+              "RelativeToolTip": "..\\..\\OneDrive\\Masa\u00FCst\u00FC\\OOP Proje - Kopya\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:39:52.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NotesForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\NotesForm.Designer.cs",
+              "RelativeDocumentMoniker": "NotesForm.Designer.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\NotesForm.Designer.cs",
+              "RelativeToolTip": "NotesForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:25:50.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotesForm.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\NotesForm.cs",
+              "RelativeDocumentMoniker": "NotesForm.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\NotesForm.cs",
+              "RelativeToolTip": "NotesForm.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAiwGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:08:38.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PhoneBookForm.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\PhoneBookForm.cs",
+              "RelativeDocumentMoniker": "PhoneBookForm.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\PhoneBookForm.cs",
+              "RelativeToolTip": "PhoneBookForm.cs",
+              "ViewState": "AQIAAJIAAAAAAAAAAAAQwKsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:26:19.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:46:38.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PersonalInformationForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\PersonalInformationForm.Designer.cs",
+              "RelativeDocumentMoniker": "PersonalInformationForm.Designer.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\PersonalInformationForm.Designer.cs",
+              "RelativeToolTip": "PersonalInformationForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:22:01.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PhoneBookForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\PhoneBookForm.Designer.cs",
+              "RelativeDocumentMoniker": "PhoneBookForm.Designer.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\PhoneBookForm.Designer.cs",
+              "RelativeToolTip": "PhoneBookForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T11:26:24.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\u_c_h\\Windows Forms Tutorial\\WinFormsApp4\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAawDoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:18:10.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
